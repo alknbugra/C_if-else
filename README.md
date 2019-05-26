@@ -1,7 +1,7 @@
 # C_if-else
 Example 1
-'''sh
 
+```sh
 #include<stdio.h>
 
 int main(){
@@ -50,4 +50,4 @@ void main(){
 	}
 }
 
-'''
+```

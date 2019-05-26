@@ -16,9 +16,10 @@ int main(){
 	}
 	return 0;
 }
+```
 
 Example 2
-
+```sh
 #include<stdio.h>
 
 void main(){
@@ -49,5 +50,5 @@ void main(){
 		printf("Bugun Pazar (Today is Sunday)");
 	}
 }
-
 ```
+

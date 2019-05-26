@@ -1,6 +1,6 @@
 # C_if-else
 Example 1
-
+'''sh
 
 #include<stdio.h>
 
@@ -50,3 +50,4 @@ void main(){
 	}
 }
 
+'''
